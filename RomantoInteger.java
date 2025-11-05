@@ -26,21 +26,8 @@ class Solution {
             else {
                 sum += current;
             }
-
-        
-
-
-
         }
         sum += values.get(symbols[symbols.length - 1]);
-
-
-
-
-
-
-
-
         return sum;
     } 
 }
