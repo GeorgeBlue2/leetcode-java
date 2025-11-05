@@ -1,4 +1,4 @@
-# leetcode-java
+# Leetcode-Java
 
 A collection of my solved LeetCode problems written in **Java**.
 Each solution focuses on clean code, readability, and algorithmic understanding.
@@ -20,7 +20,7 @@ Implements a simple traversal with conditional subtraction logic.
 ### How to run
 1. Make sure you have Java installed.
 2. Compile the file:
-  '''bash
+  bash
   javac RomanToInteger.java
 
 ### What I learned
