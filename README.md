@@ -47,7 +47,7 @@ Given an array of values and a target value, find the indices of the numbers tha
 - HashMap data structure
 - Array manipulation
 
-![Two Sum Results](images/two-sum-results.png)
+![Two Sum Results](images/TwoSumResults.png)
 ------------------------------------------------------------------------------
 ### Future Problems
 This repository will include future LeetCode solutions organized by difficulty:
