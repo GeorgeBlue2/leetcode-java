@@ -26,8 +26,32 @@ Implements a simple traversal with conditional subtraction logic.
 - **Java**
 - **HashMap, String Traversal**, and basic algorithmic logic.
 
+-------------------------------------------------------------------------------
+## Problem Highlight: Two Sum (#1)
+
+**Description:**
+
+Given an array of values and a target value, find the indices of the numbers that add up to the target.
+
+### Features
+- Efficient O(n) time complexity using HashMap
+- Single-pass solution with constant time lookup
+- Returns indices in any order
+
+### What I learned
+- How to optimize from O(n^2) brute force to O(n) using hash maps.
+- The importance of choosing the right data structure.
+- How to think about complement patterns (i.e., target - current = needed)
+
+### Technologies
+- Java
+- HashMap data structure
+- Array manipulation
+
+------------------------------------------------------------------------------
 ### Future Problems
 This repository will include future LeetCode solutions organized by difficulty:
 -easy
 -medium
 -hard
+
