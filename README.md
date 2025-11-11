@@ -68,7 +68,7 @@ Given an integer (x), return true if x is a palindrome, return false otherwise.
 - Array
 - Boolean/Modulus/Division
 
-![Palindrome Number results](images/PalindromeResults.png)
+![Palindrome Number results](images/PalindromeResults.PNG)
 ### Future Problems
 This repository will include future LeetCode solutions organized by difficulty:
 -easy
