@@ -49,6 +49,26 @@ Given an array of values and a target value, find the indices of the numbers tha
 
 ![Two Sum Results](images/TwoSumResults.png)
 ------------------------------------------------------------------------------
+## Problem Highlight: Palindrome Number (#9)
+
+**Description:**
+
+Given an integer (x), return true if x is a palindrome, return false otherwise.
+
+### Features
+- O(n) time complexity converting the integer to an array
+- considers negative integers
+
+### What I learned
+- Utilizing modulus to break down a multiple-digit integer
+- Navigation of array indexes
+
+### Technologies
+- Java
+- Array
+- Boolean/Modulus/Division
+
+![Palindrome Number results](images/PalindromeResults.png)
 ### Future Problems
 This repository will include future LeetCode solutions organized by difficulty:
 -easy
